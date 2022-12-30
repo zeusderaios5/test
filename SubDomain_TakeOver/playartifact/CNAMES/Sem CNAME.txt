@@ -1,4 +1,0 @@
-ok.playartifact.com
-beta.playartifact.com
-origin.playartifact.com
-test.playartifact.com

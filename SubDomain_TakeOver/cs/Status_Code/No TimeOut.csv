@@ -1,6 +1,0 @@
-([], '--> ', 200, '= ', 'blog.counter-strike.net', 'https://blog.counter-strike.net/')
-([<Response [302]>], '--> ', 200, '= ', 'counter-strike.net', 'https://blog.counter-strike.net')
-([<Response [301]>], '--> ', 200, '= ', 'new.blog.counter-strike.net', 'https://blog.counter-strike.net/')
-([<Response [302]>], '--> ', 200, '= ', 'store.counter-strike.net', 'https://blog.counter-strike.net')
-([<Response [302]>], '--> ', 200, '= ', 'www.counter-strike.net', 'https://blog.counter-strike.net')
-([<Response [301]>, <Response [301]>], '--> ', 200, '= ', 'www.new.blog.counter-strike.net', 'https://blog.counter-strike.net/')
