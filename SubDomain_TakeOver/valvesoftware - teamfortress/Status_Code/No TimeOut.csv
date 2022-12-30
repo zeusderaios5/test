@@ -1,0 +1,11 @@
+
+([<Response [301]>], --> , 200, = , developer.valvesoftware.com, https://developer.valvesoftware.com/wiki/Main_Page)
+([<Response [301]>], --> , 200, = , store.valvesoftware.com, https://valvestore.forfansbyfans.com/)
+([<Response [302]>, <Response [301]>, <Response [301]>], --> , 200, = , wiki.teamfortress.com, https://wiki.teamfortress.com/wiki/Main_Page)
+([<Response [302]>, <Response [302]>], --> , 200, = , valvesoftware.com, https://www.valvesoftware.com/en/)
+([<Response [302]>], --> , 200, = , store.teamfortress.com, https://valvestore.forfansbyfans.com/?g=7)
+([<Response [302]>], --> , 200, = , teamfortress.com, https://www.teamfortress.com/)
+([<Response [302]>], --> , 200, = , www.valvesoftware.com, https://www.valvesoftware.com/en/)
+([], --> , 200, = , list.valvesoftware.com, https://list.valvesoftware.com/)
+([], --> , 200, = , www.teamfortress.com, https://www.teamfortress.com/)
+([], --> , 403, = , deckgen.valvesoftware.com, https://deckgen.valvesoftware.com/)

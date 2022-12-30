@@ -1,0 +1,12 @@
+
+([<Response [301]>, <Response [301]>, <Response [301]>], --> , 200, = , forum.twinmotion.com, https://twinmotionhelp.epicgames.com/s/?language=en_US)
+([<Response [301]>, <Response [301]>, <Response [301]>], --> , 200, = , help.twinmotion.com, https://twinmotionhelp.epicgames.com/s/?language=en_US)
+([<Response [301]>, <Response [302]>], --> , 200, = , twinmotion.com, https://www.twinmotion.com:443/en-US)
+([<Response [301]>], --> , 200, = , update.twinmotion.com, https://cdn1.unrealengine.com:443/twinmotion/tm_versions.xml)
+([<Response [302]>], --> , 200, = , activation.twinmotion.com, https://activation.twinmotion.com/en-US)
+([<Response [302]>], --> , 200, = , kara.twinmotion.com, https://kara.twinmotion.com/en-US)
+([<Response [302]>], --> , 200, = , launcher.twinmotion.com, https://launcher.twinmotion.com/en-US)
+([<Response [302]>], --> , 200, = , map.twinmotion.com, https://map.twinmotion.com/en-US)
+([<Response [302]>], --> , 200, = , plugin.twinmotion.com, https://plugin.twinmotion.com/en-US)
+([<Response [302]>], --> , 200, = , www.twinmotion.com, https://www.twinmotion.com/en-US)
+([], --> , 403, = , www2.twinmotion.com, https://www2.twinmotion.com/)

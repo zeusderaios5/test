@@ -1,0 +1,16 @@
+
+anonymous.ftp.ovh.net
+audio.ovh.net
+elb46.freshdesk.com
+ftp.90plan.ovh.net
+imp.ovh.net
+ion.com
+ns0.ovh.net
+ns0.ovh.net
+ns0.ovh.net
+squirrel.ovh.net
+twinmoti.cluster002.ovh.net
+twinmoti.cluster002.ovh.netcluster002.ovh.net.      -    Origem =   twinmoti.cluster002.ovh.net
+ns0.ovh.net.      -    Origem =   squirrel.ovh.net
+cluster002.ovh.net.      -    Origem =   twinmoti.cluster002.ovh.net
+fwfd-use1-lb191.freshdesk.com.      -    Origem =   elb46.freshdesk.com

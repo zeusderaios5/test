@@ -1,0 +1,12 @@
+
+clientconfig.microsoftonline-p.net.
+developer.valvesoftware.com.
+mobiledist.valvesoftware.com.
+sipdir.online.lync.com.
+smtp-01-blv1.valvesoftware.com.
+smtp-02-blv1.valvesoftware.com.
+smtp.valvesoftware.com.
+source.valvesoftware.com.
+webdir.online.lync.com.
+webstage.valvesoftware.com.
+www.valvesoftware.com.
